@@ -1,12 +1,12 @@
-# youtubeDownloader
+# Video Downloader
 
 ## Copiando projeto
 ```bash
-git@github.com:murilopaixao/youtubeDownloader.git
+git@github.com:murilopaixao/videoDownloader.git
 ```
 
 ```bash
-cd youtubeDownloader
+cd videoDownloader
 ```
 
 ## Ambiente virtual
@@ -27,12 +27,12 @@ pip install -r requirements.txt
 python app.py
 ```
 
-![Youtube Downloader](projetoTela.png)
+![Video Downloader](projetoTela.png)
 
 # Encerrando
 
 ```bash
 deactivate
 cd ..
-rm -rf youtubeDownloader
+rm -rf videoDownloader
 ```
